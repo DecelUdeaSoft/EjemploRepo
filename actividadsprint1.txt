@@ -1,0 +1,9 @@
+Crear un equipo de trabajo y asignar los roles de cada uno de los integrantes según la metodología Scrum
+Definir las ceremonias de Scrum y el calendario de cada una
+Tener creado el repositorio de las fuentes en GitHub
+Realizar pull request con cada cambio al proyecto
+Tener creadas las ramas principales development, release, main
+Dar permisos a todos los integrantes del equipo
+ Hacer comentarios sobre cada cambio que se sube al repositorio
+Evidencia de la funcionalidad de la aplicación: Ruta (URL, enlace) del video donde se evidencia el cumplimiento de las tareas del sprint (Definition of done).
+Ruta (URL, enlace) en la que se encuentra el repositorio en GitHub.
