@@ -1,3 +1,4 @@
 Deficion de roles en  equipo de trabajo
 deficion tiempos de reunion y dias del mismo
 Realizar actas diarias, asignacion de actividades y pendientes
+mostrar resultados
